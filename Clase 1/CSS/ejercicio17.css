@@ -1,0 +1,24 @@
+/* p {
+    text-align: center;
+    color: red;
+  }  */
+
+  #parrafo1 {
+    text-align: right;
+    color: rgb(156, 54, 199);
+  }
+
+  #parrafo2 {
+    text-align: center;
+    color: rgb(56, 54, 199);
+  }
+
+  .center {
+    text-align: center;
+    color: red;
+  }
+
+  p.center {
+    text-align: center;
+    color: rgb(153, 0, 255);
+  }
